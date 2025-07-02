@@ -28,3 +28,41 @@ Start a new game with one of the following difficulty levels:
 - **Medium:** 5×5 grid
 - **Hard:** 4×4 grid
 - **Custom:** User-defined grid size
+
+## 💾 Save & Load
+
+- Save the game progress along with difficulty level, max score, and timestamp.
+- Load a saved game at any time.
+
+## 🕹️ Gameplay Functionality
+
+- **Undo:** Return up to 5 moves back.
+- **Reset:** Restart the game from the beginning.
+- **Exit:** Quit and return to the main menu.
+- **Auto-save:** Game automatically saves at key events.
+
+## 📈 Score and Leaderboard
+
+- Tracks the top 5 scores per difficulty level.
+- If a new score is higher than the lowest saved score, it is recorded and saved.
+
+## 📜 Game History
+
+- View past games including:
+  - Final score
+  - Win/Loss outcome
+  - Game duration
+  - Date and time
+
+## 📚 Educational Purpose
+
+This project was developed as part of my **Basic Programming** course to practice:
+
+- Game logic implementation
+- File I/O
+- Control flow
+- Array and matrix manipulation
+- Random number generation
+- Working with custom data structures
+
+---
