@@ -66,3 +66,16 @@ This project was developed as part of my **Basic Programming** course to practic
 - Working with custom data structures
 
 ---
+
+## 🧑‍🎓 Author
+
+**Fatemeh Mousavi**  
+Student at IUT  
+Course: Basic Programming  
+Semester: Fall 2021
+
+---
+
+## 📄 License
+
+This project is licensed for educational and personal use. Feel free to use and modify.
